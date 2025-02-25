@@ -200,7 +200,7 @@ const VitiscoLanding = () => {
               className="w-full h-full object-cover"
               poster="/Images/video-poster.jpg"
             >
-              <source src="../public/images/0121.mp4" type="video/mp4" />
+              <source src="/Images/0121.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
 
